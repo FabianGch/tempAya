@@ -1,0 +1,184 @@
+﻿{
+  "data": [
+      {
+        "id": 1,
+        "name": "Auditoría Interna"
+      },
+      {
+        "id": 2,
+        "name": "Contraloría de Servicios"
+      },
+      {
+        "id": 3,
+        "name": "Control Interno"
+      },
+      {
+        "id": 4,
+        "name": "Dirección de Centro de Servicios de Apoyo"
+      },
+      {
+        "id": 5,
+        "name": "Dirección Comunicación Institucional"
+      },
+      {
+        "id": 6,
+        "name": "Dirección Cooperación y Asuntos Internacionales"
+      },
+      {
+        "id": 7,
+        "name": "Dirección de Finanzas - sede"
+      },
+      {
+        "id": 8,
+        "name": "Dirección de Género"
+      },
+      {
+        "id": 9,
+        "name": "Dirección Gestión de Capital Humano"
+      },
+      {
+        "id": 10,
+        "name": "Dirección Jurídica"
+      },
+      {
+        "id": 11,
+        "name": "Dirección de Panificación"
+      },
+      {
+        "id": 12,
+        "name": "Dirección de Proveeduría"
+      },
+      {
+        "id": 13,
+        "name": "Dirección de Salud Ocupacional"
+      },
+      {
+        "id": 14,
+        "name": "Dirección de Sistemas de Información"
+      },
+      {
+        "id": 15,
+        "name": "FARG"
+      },
+      {
+        "id": 16,
+        "name": "Gerencia General"
+      },
+      {
+        "id": 17,
+        "name": "Subgerencia General"
+      },
+      {
+        "id": 18,
+        "name": "Junta Directiva"
+      },
+      {
+        "id": 19,
+        "name": "Laboratorio Nacional de Aguas"
+      },
+      {
+        "id": 20,
+        "name": "Presidencia Ejecutiva"
+      },
+      {
+        "id": 21,
+        "name": "SAID Subgerencia Ambiental Investigacion y Desarrollo"
+      },
+      {
+        "id": 22,
+        "name": "SAID UEN Administraicon de Proyectos "
+      },
+      {
+        "id": 23,
+        "name": "SAID UEN Gestion Ambiental"
+      },
+      {
+        "id": 24,
+        "name": "SAID UEN Investigacion y Desarrollo"
+      },
+      {
+        "id": 25,
+        "name": "SAID UEN Programacion y Control"
+      },
+      {
+        "id": 26,
+        "name": "SGSD Subgerencia Gestión Sistemas Delegados"
+      },
+      {
+        "id": 27,
+        "name": "SGSD UEN Administracion de Proyectos"
+      },
+      {
+        "id": 28,
+        "name": "SGSD UEN Gestion de Acueductos Rurales "
+      },
+      {
+        "id": 29,
+        "name": "SGSG Subgerencia Gestión  GAM"
+      },
+      {
+        "id": 30,
+        "name": "SGSG UEN Dirección Recolección y Tratamiento GAM"
+      },
+      {
+        "id": 31,
+        "name": "SGSG UEN Optimizacion de Sistemas GAM"
+      },
+      {
+        "id": 32,
+        "name": "SGSG UEN Produccion y Distribución GAM"
+      },
+      {
+        "id": 33,
+        "name": "SGSG UEN Servicio al Cliente GAM"
+      },
+      {
+        "id": 34,
+        "name": "SGSP Region Brunca"
+      },
+      {
+        "id": 35,
+        "name": "SGSP Region Central"
+      },
+      {
+        "id": 36,
+        "name": "SGSP Region Chorotega"
+      },
+      {
+        "id": 37,
+        "name": "SGSP Region Huetar Caribe"
+      },
+      {
+        "id": 38,
+        "name": "SGSP Region Pacifico Central"
+      },
+      {
+        "id": 39,
+        "name": "SGSP Subgerencia Sistemas Perifericos"
+      },
+      {
+        "id": 40,
+        "name": "SIFS Sistema Integrado Financiero Suministro"
+      },
+      {
+        "id": 41,
+        "name": "Sistema Comercial Interado OPEN"
+      },
+      {
+        "id": 42,
+        "name": "Unidad de Gestion Tarifaria"
+      },
+      {
+        "id": 43,
+        "name": "Unidad Ejecutora PAPS"
+      },
+      {
+        "id": 44,
+        "name": "Unidad Ejecutora Proyecto BCIE-AyA. RANC"
+      },
+      {
+        "id": 45,
+        "name": "Unidad Tecnica Servicios Abastecimiento Agua Potable y Saneamiento (UTSAPS)"
+      }
+    ]
+}
